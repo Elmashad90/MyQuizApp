@@ -35,6 +35,7 @@ namespace MyQuizApp
             frm.Show();
             this.Close();
             //Ahmed
+            //hossam
         }
 
         private void btnExit_Click(object sender, EventArgs e)
