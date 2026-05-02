@@ -1,0 +1,5 @@
+The mean is calculated by?|sum divided by number,highest value minus lowest value,middle value,most repeated value|0|Easy
+The median is?|average value,middle value after ordering,most repeated value,total sum|1|Easy
+The mode is?|middle value,least value,most repeated value,range value|2|Easy
+The range is?|maximum minus minimum,mean plus median,sum divided by number,standard deviation squared|0|Medium
+Standard deviation measures?|central value,spread of data,number of data only,highest frequency|1|Medium

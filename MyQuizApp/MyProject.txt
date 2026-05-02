@@ -1,0 +1,8 @@
+What is C#?|Game,Language,Operating System,Browser|1|Easy
+OOP stands for?|Object Oriented Programming,Object Output Program,Only One Process,Object Original Plan|0|Easy
+Which is a main concept of OOP?|Loop,Condition,Encapsulation,Variable|2|Medium
+Which keyword allows a method to be overridden in a derived class?|static,virtual,sealed,private|1|Hard
+Which concept means hiding internal details and showing only needed features?|Inheritance,Abstraction,Compilation,Namespace|1|Medium
+Which concept allows a class to use members of another class?|Polymorphism,Inheritance,Encapsulation,Exception|1|Medium
+Which access modifier allows access only inside the same class?|public,private,protected,internal|1|Easy
+Which keyword is used to create an object in C#?|class,new,void,return|1|Easy

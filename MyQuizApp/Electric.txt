@@ -1,0 +1,5 @@
+Ohm's law is?|V equals I times R,P equals V times I,R equals V plus I,I equals V times R|0|Easy
+The unit of electric current is?|Volt,Ampere,Ohm,Watt|1|Easy
+The unit of resistance is?|Volt,Ampere,Ohm,Coulomb|2|Easy
+In a series circuit the current is?|different in each resistor,the same through all components,always zero,not measurable|1|Medium
+Electrical power can be calculated by?|P equals V times I,P equals V divided by I,P equals R plus I,P equals V plus R|0|Medium

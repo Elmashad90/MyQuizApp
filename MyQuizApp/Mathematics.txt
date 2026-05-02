@@ -1,0 +1,5 @@
+What is the derivative of x squared?|x,2x,x squared,2|1|Easy
+What is the value of 5 plus 7?|10,11,12,13|2|Easy
+If y equals 3x then the slope is?|0,1,2,3|3|Easy
+What is the integral of 2x dx?|x squared,2x squared,x,constant only|0|Medium
+What is the determinant of matrix [1 0; 0 1]?|0,1,2,-1|1|Medium

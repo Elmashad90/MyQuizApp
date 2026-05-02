@@ -1,0 +1,18 @@
+Modified files:
+- MyQuizApp/Form1.cs
+- MyQuizApp/Login.cs
+- MyQuizApp/FormSignUp.cs
+- MyQuizApp/Type.cs
+- MyQuizApp/Result.cs
+- MyQuizApp/Login.Designer.cs
+- MyQuizApp/FormSignUp.Designer.cs
+- MyQuizApp/Type.Designer.cs
+- MyQuizApp/MyQuizApp.csproj
+
+Added files:
+- MyQuizApp/MyProject.txt
+- MyQuizApp/Mathematics.txt
+- MyQuizApp/Electric.txt
+- MyQuizApp/Statistics.txt
+- MyQuizApp/users.txt
+- README_MODIFIED_AR.txt
