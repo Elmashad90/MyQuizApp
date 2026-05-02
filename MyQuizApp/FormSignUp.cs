@@ -48,7 +48,6 @@ namespace MyQuizApp
             bool userExists = false;
             //Mohamed
             //Hossam
-            //ll,l,l
 
             string[] lines = File.ReadAllLines(usersFilePath);
 
