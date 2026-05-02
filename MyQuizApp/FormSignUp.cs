@@ -44,8 +44,9 @@ namespace MyQuizApp
 
             if (!File.Exists(usersFilePath))
                 File.WriteAllText(usersFilePath, "Ahmed,12123" + Environment.NewLine);
-
+            //Ahmed 
             bool userExists = false;
+
 
             string[] lines = File.ReadAllLines(usersFilePath);
 

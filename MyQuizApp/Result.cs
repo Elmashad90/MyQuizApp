@@ -34,6 +34,7 @@ namespace MyQuizApp
             Form1 frm = new Form1(questionsFileName, quizTitle);
             frm.Show();
             this.Close();
+            //Ahmed
         }
 
         private void btnExit_Click(object sender, EventArgs e)
